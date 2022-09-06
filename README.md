@@ -14,6 +14,9 @@
 
 - ⚡ Fun fact *I love Working out 🤸*
 
+-  ♟️ Let's Play a game of Chess ♟️
+
+
 <br/>
 <br/>
 <br/>
