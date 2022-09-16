@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Chugh</h1>
 <h3 align="center">A Passionate Full Stack Web Developer From India</h3>
 <br/>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
+</div>
 <img align="right" alt "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishmangal&label=Profile%20views&color=0e75b6&style=flat" alt="tanishmangal" /> </p>
 
-- 👨‍💻 Visit My Portfolio here [Portfolio](https://gleaming-paprenjak-b904c5.netlify.app/)
+- 👨‍💻 Visit My Portfolio here [Portfolio](deepanshuchugh.github.io)
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,MERN STACK**
 
