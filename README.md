@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **deepanshuchugh24@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Fb_tAfUBox32SACHxNF-VyCyPcgCdTcC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QFcpho9v8L4qdg5agZFhAfh2BjgttVaC/view?usp=sharing)
 
 - ⚡ Fun fact *I love Working out 🤸*
 
