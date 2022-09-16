@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
 <img align="right" alt "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishmangal&label=Profile%20views&color=0e75b6&style=flat" alt="tanishmangal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepanshuChugh&label=Profile%20views&color=0e75b6&style=flat" alt="tanishmangal" /> </p>
 
 - 👨‍💻 Visit My Portfolio here [Portfolio](deepanshuchugh.github.io)
 
