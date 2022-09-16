@@ -3,11 +3,13 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
+<h2>- Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h2>
+<h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems </h2>
 <img align="right" alt "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepanshuChugh&label=Profile%20views&color=0e75b6&style=flat" alt="DeepanahuChugh" /> </p>
 
- Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
-- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems
+
 
 - 👨‍💻 Visit My Portfolio here [Portfolio](https://deepanshuchugh.github.io/)
 
