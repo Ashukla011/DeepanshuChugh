@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
 <img align="right" alt "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepanshuChugh&label=Profile%20views&color=0e75b6&style=flat" alt="tanishmangal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepanshuChugh&label=Profile%20views&color=0e75b6&style=flat" alt="DeepanahuChugh" /> </p>
 
 - 👨‍💻 Visit My Portfolio here [Portfolio](deepanshuchugh.github.io)
 
@@ -23,11 +23,7 @@
 <br/>
 <br/>
 <br/>
-<div align="center">
-  <a href="https://github.com/DeepanshuChugh">
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=DeepanshuChugh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuChugh&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://git-scm.com/images/logos/logomark-orange@2x.png">
